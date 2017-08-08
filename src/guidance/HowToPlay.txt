@@ -1,0 +1,9 @@
+   Are you confused about the ancient game of Checkers? Are the colors confusing? Too many buttons to keep track of?
+
+   Well do not fret, this handy dandy .txt document is going go provide all of the in depth information you need to potentially win a few games against the computer.
+
+   The button that you just clicked is the "help" button. It's the #1 button for help. Period. Next to it is the mute button. If you want to turn off the sounds in this game, then click it. Below that is the "New Game" button. Believe it or not, that button will start a new game! Before you click that button, make sure you're ready to play and you selected both the difficulty setting and the number of players.
+
+   The game is pretty simple. You click to move your pieces towards the opponents side of the board, jumping over your opponents pieces in the process. If you reach the other side, your piece transforms into a king and can move in multiple directions. If you are presented with an opportunity to capture your opponents pieces, you must. So I suppose it's not, strictly speaking, an opportunity. The goal of the game is to capture all of your opponents pieces.
+
+   Now that you are armed with knowledge, go forth and conquer! 
